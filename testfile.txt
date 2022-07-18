@@ -1,10 +1,1 @@
- Volume in drive D is DATA
- Volume Serial Number is 0420-6712
-
- Directory of D:\LocalRepo
-
-18/07/2022  04:11 PM    <DIR>          .
-18/07/2022  04:11 PM    <DIR>          ..
-18/07/2022  04:11 PM                 0 testfile.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  671,369,097,216 bytes free
+Changed
